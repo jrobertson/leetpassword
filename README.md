@@ -16,7 +16,7 @@ This gem is for people like myself who have trouble remembering their long highl
     LeetPassword.generate(8) #=> sulaw3s1
 
 
-    # generate a password with a maxumum of 8 characters and
+    # generate a password with a maximum of 8 characters and
     #   use a custom leet character map
 
     LeetPassword.generate(12, {o: '0', a: '4'}) #=> ur0ch0rd
