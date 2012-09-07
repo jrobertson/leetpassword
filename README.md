@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introducing the Leetpassword gem
 
 This gem is for people like myself who have trouble remembering their long highly secure password, and need something a little simpler to remember.
@@ -28,9 +27,3 @@ This gem is for people like myself who have trouble remembering their long highl
 
 * [pezra/random-word · GitHub](https://github.com/pezra/random-word)
 * [leetpassword](http://rubygems.org/gems/leetpassword)
-=======
-leetpassword
-============
-
-The LeetPassword gem creates a password with 1 or 2 random leet words.
->>>>>>> e77af00cdb7180e9a7b8ccb6cf7b93a6462522d4
