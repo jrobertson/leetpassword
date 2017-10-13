@@ -2,7 +2,7 @@
 
 # file: leetpassword.rb
 
-require 'random-word'
+require 'random_word'
 
 class LeetPassword
 
